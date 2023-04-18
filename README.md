@@ -5,7 +5,7 @@
 
 - Atualmente estudo na **Trybe 💚**
 
-- Estou me aperfeiçoando em **Typescript 💻**
+- Estou me aperfeiçoando em **MongoDB 💻**
 
 - Entre em contato: **luanvictordev@gmail.com 📧**
 
