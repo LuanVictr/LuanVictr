@@ -3,7 +3,7 @@
 
 <img align="right" alt="Luan-Programing" height="300px" style="margin-bottom:2000px;" src="https://media.discordapp.net/attachments/1078382691210231889/1078382846152024214/luan-programing.gif?width=736&height=552">
 
-- Atualmente estudo na **Trybe 💚**
+- Desenvolvedor Full Stack **Júnior**
 
 - Estou me aperfeiçoando em **MongoDB 💻**
 
