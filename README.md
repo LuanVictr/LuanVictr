@@ -5,7 +5,7 @@
 
 - Desenvolvedor Full Stack **Júnior**
 
-- Estou me aperfeiçoando em **MongoDB 💻**
+- Estou me aperfeiçoando em **POO 💻**
 
 - Entre em contato: **luanvictordev@gmail.com 📧**
 
