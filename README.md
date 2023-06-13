@@ -5,7 +5,7 @@
 
 - Desenvolvedor Full Stack **Júnior**
 
-- Estou me aperfeiçoando em **POO 💻**
+- Estou me aperfeiçoando em **Algoritmos 💻**
 
 - Entre em contato: **luanvictordev@gmail.com 📧**
 
