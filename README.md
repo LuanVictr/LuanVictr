@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvictr&show_icons=true&locale=en&layout=compact" alt="luanvictr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luanvictr&show_icons=true&locale=en" alt="luanvictr" /></p>
+##
 
 <div>
   <h3>Um pouco sobre mim:</h3>
