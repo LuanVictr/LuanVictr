@@ -5,7 +5,7 @@
 
 - Desenvolvedor Full Stack **Júnior**
 
-- Estou me aperfeiçoando em **Algoritmos 💻**
+- Estou me aperfeiçoando em **Java 💻**
 
 - Entre em contato: **luanvictordev@gmail.com 📧**
 
