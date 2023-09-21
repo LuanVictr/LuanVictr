@@ -5,8 +5,6 @@
 
 - Desenvolvedor Full Stack
 
-- Estou me aperfeiçoando em **Java 💻**
-
 - Entre em contato: **luanvictordev@gmail.com 📧**
 
 <h3 align="left">Ferramentas que eu uso ⚙️:</h3>
