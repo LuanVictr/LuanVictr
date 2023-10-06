@@ -11,7 +11,7 @@
 
 #### Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mongodb,mysql,nodejs,typescript,javascript,docker,jest,react,redux,&theme=light&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mongodb,mysql,nodejs,typescript,javascript,docker,jest,react,redux,&theme=light&perline=5)](https://skillicons.dev)
 
 ##
 
