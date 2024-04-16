@@ -1,17 +1,17 @@
 <h1 align="center">Opa, meu nome é Luan Victor</h1>
-<h3 align="center">Desenvolvedor Web Full-Stack</h3>
+<h3 align="center">Desenvolvedor Fullstack</h3>
 
 <img align="right" alt="Luan-Programing" height="300px" style="margin-bottom:2000px;" src="https://media.discordapp.net/attachments/1078382691210231889/1078382846152024214/luan-programing.gif?width=736&height=552">
 
 - Desenvolvedor Full Stack
 
-- Entre em contato: **luanvictordev@gmail.com 📧**
+- Entre em contato: [luanvictordev@gmail.com 📧](mailto:luanvictordev@gmail.com)
 
 ##
 
 #### Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mongodb,mysql,nodejs,typescript,javascript,docker,jest,react,redux,&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,javascript,mysql,mongodb,react,vue,next,cypress,jest,docker,java,spring,maven,redux,&theme=light&perline=5)](https://skillicons.dev)
 
 ##
 
@@ -32,8 +32,8 @@
 <div>
   <h3>Um pouco sobre mim:</h3>
   <ul>
-  <li>Sou muito fã de harry potter 🧙‍♂️ </li>
-  <li>Acho que experiências são a motivação de estarmos vivos 🧭</li>
-  <li>Sou apaixonado por fotografia 📸</li>
+  <li>Viver é aprender</li>
+  <li>Escuto a trilha sonora antes de ver o filme</li>
+  <li>Apaixonado por fotografia 📸</li>
   </ul>
 </div>
